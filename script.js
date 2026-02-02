@@ -1,0 +1,1 @@
+alert ("Peace be upon you!");
