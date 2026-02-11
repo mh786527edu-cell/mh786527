@@ -1,3 +1,247 @@
 h1 {
 	text-align: center;
+	animation-name: colorchange;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+@keyframes colorchange {
+	from {color: #000000;}
+	to {color: #FFFFFF;}
+}
+body {
+	background-color: #3B3C36;
+}
+.pages {
+	text-align: center;
+	text-decoration: none;
+	color: green;
+}
+.links {
+	background-color: white;
+	text-decoration: underline;
+}
+/*This code for all pages*/
+.container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	text-align: center;
+	grid-gap: 0px;
+}
+.item {
+	padding: 20px;
+	background-color: #000000;
+	color: #000000;
+}
+.item1 {
+	padding: 20px;
+	background-color: #000004;
+	color: #000004;
+}
+.item2 {
+	padding: 20px;
+	background-color: #000008;
+	color: #000008;
+}
+.item3 {
+	padding: 20px;
+	background-color: #00000C;
+	color: #00000C;
+}
+.item4 {
+	padding: 20px;
+	background-color: #000010;
+	color: #000010;
+}
+.item5 {
+	padding: 20px;
+	background-color: #000014;
+	color: #000014;
+}
+.item6 {
+	padding: 20px;
+	background-color: #000018;
+	color: #000018;
+}
+.item7 {
+	padding: 20px;
+	background-color: #00001C;
+	color: #00001C;
+}
+.item8 {
+	padding: 20px;
+	background-color: #000020;
+	color: #000020;
+}
+.item9 {
+	padding: 20px;
+	background-color: #000024;
+	color: #000024;
+}
+.item10 {
+	padding: 20px;
+	background-color: #000028;
+	color: #000028;
+}
+.item11 {
+	padding: 20px;
+	background-color: #00002C;
+	color: #00002C;
+}
+.item12 {
+	padding: 20px;
+	background-color: #000030;
+	color: #000030;
+}
+.item13 {
+	padding: 20px;
+	background-color: #000034;
+	color: #000034;
+}
+.item14 {
+	padding: 20px;
+	background-color: #000038;
+	color: #000038;
+}
+.item15 {
+	padding: 20px;
+	background-color: #00003C;
+	color: #00003C;
+}
+.item16 {
+	padding: 20px;
+	background-color: #000040;
+	color: #000040;
+}
+.item17 {
+	padding: 20px;
+	background-color: #000044;
+	color: #000044;
+}
+.item18 {
+	padding: 20px;
+	background-color: #000048;
+	color: #000048;
+}
+.item19 {
+	padding: 20px;
+	background-color: #00004C;
+	color: #00004C;
+}
+.item20 {
+	padding: 20px;
+	background-color: #000050;
+	color: #000050;
+}
+.item21 {
+	padding: 20px;
+	background-color: #000054;
+	color: #000054;
+}
+.item22 {
+	padding: 20px;
+	background-color: #000058;
+	color: #000058;
+}
+.item23 {
+	padding: 20px;
+	background-color: #00005C;
+	color: #00005C;
+}
+.item24 {
+	padding: 20px;
+	background-color: #000060;
+	color: #000060;
+}
+.item25 {
+	padding: 20px;
+	background-color: #000064;
+	color: #000064;
+}
+.item26 {
+	padding: 20px;
+	background-color: #000068;
+	color: #000068;
+}
+/*This code is only for the page "index.html" and practice*/
+/*Here, the hover states are started.*/
+.item:hover {
+	color: #FFFFFF;
+}
+.item1:hover {
+	color: #FFFFFF;
+}
+.item2:hover {
+	color: #FFFFFF;
+}
+.item3:hover {
+	color: #FFFFFF;
+}
+.item4:hover {
+	color: #FFFFFF;
+}
+.item5:hover {
+	color: #FFFFFF;
+}
+.item6:hover {
+	color: #FFFFFF;
+}
+.item7:hover {
+	color: #FFFFFF;
+}
+.item8:hover {
+	color: #FFFFFF;
+}
+.item9:hover {
+	color: #FFFFFF;
+}
+.item10:hover {
+	color: #FFFFFF;
+}
+.item11:hover {
+	color: #FFFFFF;
+}
+.item12:hover {
+	color: #FFFFFF;
+}
+.item13:hover {
+	color: #FFFFFF;
+}
+.item14:hover {
+	color: #FFFFFF;
+}
+.item15:hover {
+	color: #FFFFFF;
+}
+.item16:hover {
+	color: #FFFFFF;
+}
+.item17:hover {
+	color: #FFFFFF;
+}
+.item18:hover {
+	color: #FFFFFF;
+}
+.item19:hover {
+	color: #FFFFFF;
+}
+.item20:hover {
+	color: #FFFFFF;
+}
+.item21:hover {
+	color: #FFFFFF;
+}
+.item22:hover {
+	color: #FFFFFF;
+}
+.item23:hover {
+	color: #FFFFFF;
+}
+.item24:hover {
+	color: #FFFFFF;
+}
+.item25:hover {
+	color: #FFFFFF;
+}
+.item26:hover {
+	color: #FFFFFF;
 }

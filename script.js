@@ -1,1 +1,1 @@
-alert ("Peace be upon you!");
+alert ("Welcome to The World of Knowledge!");
